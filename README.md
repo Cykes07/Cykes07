@@ -21,7 +21,7 @@ Proyecto entregado para entender Poo, utilizando fxml y java se crea una app de 
 * Ventana-Viviani
 Es un proyecto visual realizado en unity con lenguaje c++ para funcionamiento en realidad virtual, este muestra a traves de las gafas de realidad virtual como se veria la ventana de viviani, una curva que se genera como la intersección de una esfera y un cilindro de radio la mitad de la esfera, y que pasa por el centro de la esfera. Realizado para una maqueta de una feria matematica. 
 
-Si quieres ver todos mis repositorios y/o proyectos de codigo que he realizado, usa el link de abajo :)
+Si quieres ver todos mis repositorios y/o proyectos de codigo que he realizado, usa el siguiente link :)   
 https://github.com/Cykes07?tab=repositories
 
 ## Intereses
