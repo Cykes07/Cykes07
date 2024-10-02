@@ -1,6 +1,6 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+Este es mi portafolio personal. Aquí puedes encontrar información sobre mí, mis
+proyectos acerca de todos y mis experiencias siendo gato programando.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
