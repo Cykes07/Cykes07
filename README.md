@@ -1,3 +1,4 @@
+[![130599014.png](https://i.postimg.cc/fyMCGXLM/130599014.png)](https://postimg.cc/xJFLHXMZ)
 # Mi sitio personal
 Hola Mundo! Este es mi portafolio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos acerca de todos y mis experiencias siendo gato programando.
@@ -9,7 +10,7 @@ proyectos acerca de todos y mis experiencias siendo gato programando.
 * Nombre: Sergio Rodríguez (Cykes es un apodo)
 * Ocupación: Estudiande de carrera de Computación
 * Lugar de residencia: Ecuador
-* Sitio web: (https://cykes07.github.io/Cykes07/)
+* Sitio web: https://cykes07.github.io/Cykes07/
 * Correo institucional: serarodr@espol.edu.ec
 ## Proyectos
 * Ajedrez_Java
