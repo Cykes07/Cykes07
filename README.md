@@ -1,5 +1,5 @@
 # Mi sitio personal
-Este es mi portafolio personal. Aquí puedes encontrar información sobre mí, mis
+Hola Mundo! Este es mi portafolio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos acerca de todos y mis experiencias siendo gato programando.
 ## Contenido
 * [Información personal](#información-personal)
@@ -26,6 +26,5 @@ https://github.com/Cykes07?tab=repositories
 
 ## Intereses
 * Me gusta más el trabajo backend que el front, pero trabajaría en ambos para crear un proyecto.
-* Soy muy fan de los videojuegos, razón que me gusta programar
-* Amantes de los gatos
+* Soy muy fan de los videojuegos, razón que empece este mundo de programar
 * Me gusta siempre realizar nuevos proyectos
