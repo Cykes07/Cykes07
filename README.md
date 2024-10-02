@@ -9,7 +9,7 @@ proyectos acerca de todos y mis experiencias siendo gato programando.
 * Nombre: Sergio Rodríguez (Cykes es un apodo)
 * Ocupación: Estudiande de carrera de Computación
 * Lugar de residencia: Ecuador
-* Sitio web: 404 error
+* Sitio web: (https://cykes07.github.io/Cykes07/)
 * Correo institucional: serarodr@espol.edu.ec
 ## Proyectos
 * Ajedrez_Java
